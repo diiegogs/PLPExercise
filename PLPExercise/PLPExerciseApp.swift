@@ -2,7 +2,7 @@
 //  PLPExerciseApp.swift
 //  PLPExercise
 //
-//  Created by JDiego Garcia on 30/05/25.
+//  Created by Juan Diego Garcia Serrano on 30/05/25.
 //
 
 import SwiftUI
@@ -11,7 +11,7 @@ import SwiftUI
 struct PLPExerciseApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            PProductScreen()
         }
     }
 }
